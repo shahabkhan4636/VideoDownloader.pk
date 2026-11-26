@@ -4,11 +4,11 @@
 
 ![VideoDownloader](https://img.shields.io/badge/VideoDownloader.pk-HD_No_Watermark-FF0050?style=for-the-badge)
 ![TikTok](https://img.shields.io/badge/TikTok-No_Watermark-000000?style=for-the-badge&logo=tiktok)
-![Live](https://img.shields.io/badge/LIVE-videodownloaderbyshahab.netlify.app-00BFFF?style=for-the-badge&logo=netlify)
+![Live](https://img.shields.io/badge/LIVE-videodownloader-pk.netlify.app-00BFFF?style=for-the-badge&logo=netlify)
 
 **TikTok HD No Watermark | Instagram Reels | Facebook HD | YouTube Shorts**
 
-[▶️ **Live Demo**](https://videodownloaderbyshahab.netlify.app/) | [📸 Preview](#-preview)
+[▶️ **Live Demo**](https://videodownloader-pk.netlify.app/) | [📸 Preview](#-preview)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 
-![VideoDownloader Preview](https://raw.githubusercontent.com/shahabkhanprofessional-coder/Shahabkhanprofessional-coder/main/images/videodownloader.png)
+![VideoDownloader Preview](https://raw.githubusercontent.com/shahabkhan4636/Shahabkhanprofessional-coder/main/images/videodownloader.png)
 
 ---
 
@@ -42,15 +42,15 @@
 
 ## 📦 Run Locally
 ```bash
-git clone https://github.com/shahabkhanprofessional-coder/VideoDownloader.pk.git
+git clone https://github.com/shahabkhan4636/VideoDownloader.pk.git
 cd VideoDownloader.pk
 # Open index.html
 ```
 
-> **Note:** Live site currently shows Netlify 404 — redeploy needed. Repo is ready for fresh deploy.
+> **Note:** Fully working live site — paste a TikTok link and download HD video without watermark.
 
 ## 📫 Creator
 **Shahab Khan** — Iqra University, Islamabad  
-📧 shahabkhanprofessional@gmail.com | [GitHub](https://github.com/shahabkhanprofessional-coder)
+📧 shahabkhanprofessional@gmail.com | [GitHub](https://github.com/shahabkhan4636)
 
 <div align="center">© 2026 Shahab Khan — Made with ❤️ in Pakistan</div>
